@@ -1,0 +1,6 @@
+# Environments
+venv2/
+
+# Audio outputs (large files)
+data/generated_speech/outputs/
+data/generated_speech/noisy_outputs/
